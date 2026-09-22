@@ -158,6 +158,7 @@ The completed project will investigate questions including:
 ---
 Last Updated: 24 Sep 2026
 ## 📁 Project Structure
+Started : 10 Aug 2026
 
 ```text
 hr-employee-analytics/
