@@ -119,44 +119,44 @@ The completed project will investigate questions including:
 - [x] Upload initial project to GitHub
 
 ### Phase 2 — Excel Fundamentals
-- [ ] Convert raw data into an Excel Table
-- [ ] Sort and filter data
-- [ ] Identify missing values
-- [ ] Identify duplicates
-- [ ] Check inconsistent data
-- [ ] Apply basic formatting
+- [x] Convert raw data into an Excel Table
+- [x] Sort and filter data
+- [x] Identify missing values
+- [x] Identify duplicates
+- [x] Check inconsistent data
+- [x] Apply basic formatting
 
 ### Phase 3 — Excel Analysis
-- [ ] Learn basic Excel formulas
-- [ ] Calculate HR KPIs
-- [ ] Analyze employee demographics
-- [ ] Analyze salaries
-- [ ] Analyze overtime
-- [ ] Analyze attrition
-- [ ] Analyze satisfaction and performance
+- [x] Learn basic Excel formulas
+- [x] Calculate HR KPIs
+- [x] Analyze employee demographics
+- [x] Analyze salaries
+- [x] Analyze overtime
+- [x] Analyze attrition
+- [x] Analyze satisfaction and performance
 
 ### Phase 4 — PivotTables & Visualization
-- [ ] Create PivotTables
-- [ ] Create PivotCharts
-- [ ] Select appropriate chart types
-- [ ] Build KPI cards
-- [ ] Create an interactive dashboard
+- [x] Create PivotTables
+- [x] Create PivotCharts
+- [x] Select appropriate chart types
+- [x] Build KPI cards
+- [x] Create an interactive dashboard
 
 ### Phase 5 — Business Insights
-- [ ] Identify important patterns
-- [ ] Interpret the results
-- [ ] Write business insights
-- [ ] Develop data-backed recommendations
+- [x] Identify important patterns
+- [x] Interpret the results
+- [x] Write business insights
+- [x] Develop data-backed recommendations
 
 ### Phase 6 — Future Versions
-- [ ] Recreate analysis using Python + Pandas
-- [ ] Analyze data using SQL
-- [ ] Build a Power BI dashboard
-- [ ] Explore Machine Learning
-- [ ] Explore AI integration
+- [x] Recreate analysis using Python + Pandas
+- [x] Analyze data using SQL
+- [x] Build a Power BI dashboard
+- [x] Explore Machine Learning
+- [x] Explore AI integration
 
 ---
-Last Updated: August 2026
+Last Updated: 24 Sep 2026
 ## 📁 Project Structure
 
 ```text
